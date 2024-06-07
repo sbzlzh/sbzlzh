@@ -1,7 +1,7 @@
 
 ## Hi👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbzlzh"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbzlzh&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff"/>
 
 📚I'm a student.
 

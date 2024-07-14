@@ -20,4 +20,3 @@
 📫Contact me
 
 * [![Email](https://img.shields.io/badge/Email-suibozhulius@gmail.com-1?style=social&logoColor=fff)](mailto:suibozhulius@gmail.com)
-* [![QQ](https://img.shields.io/badge/QQ-2247564152-1?style=social&logoColor=fff)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2247564152&website=www.oicqzone.com)

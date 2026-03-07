@@ -27,6 +27,10 @@
 <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
+<p>
+<img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black"/>
+</p>
+
 ---
 
 ## 📊 GitHub Stats

@@ -1,7 +1,7 @@
 
 ## Hi👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbzlzh&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff"/>
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sbzlzh&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff"/>
 
 📚I'm a student.
 
@@ -15,7 +15,7 @@
 
 ![Notepad++](https://img.shields.io/badge/-Notepad++-green?style=flat-square&logo=notepadplusplus&logoColor=fff)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sbzlzh&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true&border_color=001F1E&text_color=09d672&icon_color=00C2C2" />
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sbzlzh&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true&border_color=001F1E&text_color=09d672&icon_color=00C2C2" />
 
 📫Contact me
 

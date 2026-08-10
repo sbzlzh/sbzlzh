@@ -37,9 +37,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sbzlzh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img src="https://github-stats-extended.vercel.app/api?username=sbzlzh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sbzlzh&layout=compact&theme=tokyonight"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sbzlzh&layout=compact&theme=tokyonight"/>
 
 </p>
 

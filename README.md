@@ -2,10 +2,6 @@
 
 # Hi 👋 I'm Go with the flow
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Lua+%E2%80%A2+Garry%27s+Mod+%E2%80%A2+Linux+Servers;Learning%2C+building%2C+and+breaking+things;Go+with+the+flow+%F0%9F%8C%8A" alt="Typing SVG" />
-
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=sbzlzh&label=Profile%20Views&color=70A5FD&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/sbzlzh?label=Followers&style=flat-square&color=70A5FD" alt="GitHub followers" />
 
